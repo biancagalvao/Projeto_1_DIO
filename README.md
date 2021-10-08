@@ -2,7 +2,7 @@
 
 ### Projeto integrante da trilha Carrefour Data Engineer - Bootcamp da Digital Inovation One, como uma das condições de finalização.
 
-* Objetivo: Demonstração de conhecimentos básicos de análise de dados com uso de Python e Pandas.
+* Objetivo: Breve demonstração de conhecimentos básicos de análise de dados com uso de Python e Pandas.
 
 * Dataset: Dados utilizados por trás da história: "Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building", encontrada no link https://fivethirtyeight.com/features/avengers-death-comics-age-of-ultron/
 
